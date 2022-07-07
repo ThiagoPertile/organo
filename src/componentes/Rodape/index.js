@@ -14,7 +14,7 @@ const Rodape = () => {
           <h3>desenvolvido por</h3>
           <a href="https://beacons.ai/thiagopertile">Thiago Pertile</a>
           <p>
-            Em estudo dos Curso de <strong>React</strong> da alura
+            Em estudo do Curso de <strong>React</strong> da alura
           </p>
         </div>
       </div>
